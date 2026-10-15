@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://craigmccahill.com/sitemap.xml
+Sitemap: https://craigmccahill.com/ghost-stories/sitemap.xml

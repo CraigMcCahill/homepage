@@ -116,7 +116,7 @@ h1 {
   display: block;
   width: 100%;
   height: clamp(190px, 26vw, 290px);
-  aspect-ratio: 40 / 21;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
   filter: saturate(0.72) contrast(1.06);
   transition: filter 180ms ease, transform 300ms ease;
